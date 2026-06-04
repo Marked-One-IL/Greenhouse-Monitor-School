@@ -9,7 +9,7 @@
 #define WIFI_PASSWORD "ENTER_WIFI_PASSWORD"
 
 #define SERVER_IP "ENTER_IP_OR_URL"
-#define SERVER_PORT 4600
+#define SERVER_PORT 4601
 
 Connection connection;
 Screen screen;
