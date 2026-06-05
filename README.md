@@ -9,7 +9,7 @@ It collects data from its sensors:
 - Temperature
 - Humidity
 - Soil Moisture
-- Light.
+- Light
   
 Then it shows this data on its screen and sends the data to the Broker Server.
 
